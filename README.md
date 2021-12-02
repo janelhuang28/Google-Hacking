@@ -29,7 +29,7 @@ This report can be used by a hacker to perform a vulnerability exploit.
 
 ## Remote Desktops
 
-Connecting to remote desktops can also be possible using the following command: ``` allinurl:tsweb/default.htm ``. This searches for any terminal services for remote desktops.
+Connecting to remote desktops can also be possible using the following command: ``` allinurl:tsweb/default.htm ```. This searches for any terminal services for remote desktops.
 ![image](https://user-images.githubusercontent.com/39514108/144344487-a3d8c003-9b6e-463e-a72e-87af838e739e.png)
 Brute forcing the password can be further accomplished with password cracking tools like hashcat, etc.
 
