@@ -18,7 +18,7 @@ Log files that contain authentication failures can also be discovered using the 
 
 ## Registry Files
 
-Registry keys cna also be found using: ```filetype:reg reg HKEY_CURRENT_USER username```
+Registry keys can also be found using: ```filetype:reg reg HKEY_CURRENT_USER username```
 
 ## Nessus Scans
 
